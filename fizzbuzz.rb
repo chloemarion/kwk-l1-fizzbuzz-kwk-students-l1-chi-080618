@@ -6,7 +6,6 @@ def fizzbuzz(number)
   return "Fizz"
 else number % 5 == 0 
   return "Buzz"
-elsif number !%3 || 5 == 0 
   end
 end
 
