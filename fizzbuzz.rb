@@ -10,5 +10,3 @@ else
   return "Nil"
   end
 end
-
-number(5)
